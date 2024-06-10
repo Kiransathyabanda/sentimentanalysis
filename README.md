@@ -25,10 +25,7 @@ This is a simple Streamlit web application for sentiment analysis. The app allow
 
 ## Credits
 
-- This app is developed by [Your Name].
-- Dataset sources:
-  - [Dataset 1](link-to-dataset1)
-  - [Dataset 2](link-to-dataset2)
+- This app is developed by [kiransathyabanda].
 
 ## License
 
